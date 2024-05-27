@@ -1,0 +1,87 @@
+html{
+    font-size: 16px;
+}
+body{
+    background: rgb(163, 127, 127); 
+}
+.heading-parts{
+    display:flex;
+    text-align: center;
+}
+.heading{
+    
+    width: 50%;
+    color:sienna
+}
+.contact{
+    width:50%;
+    color:aqua;
+    cursor: pointer;
+}
+.menu{
+    display: flex;
+
+    
+}
+.description{
+    width: 50%;
+    margin:20px;
+    font-style: italic;
+    font-size: 20px;
+
+}
+#food-image{
+    width:50%;
+    
+}
+.food-options{
+    text-align: center;
+    
+}
+.options{
+    display: flex;
+    
+    
+}
+#starters{
+    width: 50%;
+    background: darkgoldenrod;
+    margin:10px;
+    border-radius: 16px;
+}
+#main-course{
+    width: 50%;
+    background: rgb(88, 11, 50);
+    margin: 10px;
+    border-radius: 16px;
+}
+#deserts{
+    width: 50%;
+    background: darkorange;
+    margin: 10px;
+    border-radius: 16px;
+}
+h4{
+    text-align: center;
+    color:brown;
+    text-decoration:underline
+}
+.offer-coupons{
+    display:flex
+}
+#coupons{
+    
+    width: 50%;
+    border-radius: 300px;
+    margin-top: 40px;
+}
+#coupons-list{
+    width:50%;
+    margin:100px;
+    font-style: oblique;
+}
+.ending{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
